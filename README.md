@@ -1,2 +1,3 @@
 # hello_world
-my first session
+私の最初のセッション
+このリポジトリには
