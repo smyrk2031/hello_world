@@ -1,0 +1,115 @@
+E:\mypython\WPy64-31180_OCR\scripts>pip list
+Package               Version
+--------------------- ------------
+accelerate            1.11.0
+aistudio-sdk          0.3.8
+annotated-types       0.7.0
+anyio                 4.11.0
+bce-python-sdk        0.9.50
+blinker               1.9.0
+build                 1.0.3
+certifi               2025.10.5
+chardet               5.2.0
+charset-normalizer    3.4.4
+click                 8.3.0
+colorama              0.4.6
+colorlog              6.10.1
+contourpy             1.3.3
+cycler                0.12.1
+einops                0.8.1
+filelock              3.20.0
+Flask                 3.1.2
+Flask-SQLAlchemy      3.1.1
+fonttools             4.60.1
+fsspec                2025.10.0
+future                1.0.0
+greenlet              3.2.4
+h11                   0.16.0
+hf-xet                1.2.0
+httpcore              1.0.9
+httpx                 0.28.1
+huggingface-hub       0.36.0
+idna                  3.11
+imagesize             1.4.1
+itsdangerous          2.2.0
+japanize-matplotlib   1.1.3
+Jinja2                3.1.6
+kiwisolver            1.4.9
+MarkupSafe            3.0.3
+matplotlib            3.10.7
+modelscope            1.31.0
+mpmath                1.3.0
+msvc_runtime          14.38.33130
+networkx              3.5
+numpy                 2.2.6
+opencv-contrib-python 4.10.0.84
+opencv-python         4.12.0.88
+opt-einsum            3.3.0
+packaging             22.0
+paddleocr             3.3.1
+paddlepaddle          3.2.1
+paddlex               3.3.9
+pandas                2.3.3
+pdf2image             1.17.0
+pillow                12.0.0
+pip                   24.0
+prettytable           3.16.0
+protobuf              6.33.0
+psutil                7.1.3
+py-cpuinfo            9.0.0
+pyclipper             1.3.0.post6
+pycryptodome          3.23.0
+pydantic              2.12.4
+pydantic_core         2.41.5
+pyparsing             3.2.5
+pypdfium2             5.0.0
+pyproject_hooks       1.0.0
+python-bidi           0.6.7
+python-dateutil       2.9.0.post0
+pytz                  2025.2
+PyYAML                6.0.2
+regex                 2025.11.3
+requests              2.32.5
+ruamel.yaml           0.18.16
+ruamel.yaml.clib      0.2.14
+safetensors           0.6.2
+sentencepiece         0.2.1
+setuptools            69.0.3
+shapely               2.1.2
+shellingham           1.5.4
+six                   1.17.0
+sniffio               1.3.1
+SQLAlchemy            2.0.44
+sqlite-bro            0.12.2
+sympy                 1.14.0
+tokenizers            0.22.1
+torch                 2.7.1+cu118
+torchaudio            2.7.1+cu118
+torchvision           0.22.1+cu118
+tqdm                  4.67.1
+transformers          4.57.1
+typer-slim            0.20.0
+typing_extensions     4.15.0
+typing-inspection     0.4.2
+tzdata                2025.2
+ujson                 5.11.0
+urllib3               2.5.0
+wcwidth               0.2.14
+Werkzeug              3.1.3
+wheel                 0.42.0
+winpython             7.1.20240208
+
+[notice] A new release of pip is available: 24.0 -> 25.3
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+E:\mypython\WPy64-31180_OCR\scripts>python -V
+Python 3.11.8
+
+E:\mypython\WPy64-31180_OCR\scripts>nvcc -V
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2021 NVIDIA Corporation
+Built on Fri_Dec_17_18:28:54_Pacific_Standard_Time_2021
+Cuda compilation tools, release 11.6, V11.6.55
+Build cuda_11.6.r11.6/compiler.30794723_0
+
+E:\mypython\WPy64-31180_OCR\scripts>
